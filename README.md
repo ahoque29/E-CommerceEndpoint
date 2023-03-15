@@ -1,2 +1,2 @@
 # E-CommerceEndpoint
-E-Commerce Endpoin
+E-Commerce Endpoint
