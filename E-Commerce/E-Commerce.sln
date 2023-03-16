@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.Api", "E-Commerce.Api\E-Commerce.Api.csproj", "{5897A41B-AAAC-4AC8-9C3A-B7022D7D7714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.Common", "E-Commerce.Common\E-Commerce.Common.csproj", "{BCEE3C6A-6F1D-4D85-8669-86F7F08D651D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.DataAccess", "E-Commerce.DataAccess\E-Commerce.DataAccess.csproj", "{EAC6A48D-8346-4333-BEBF-49DEF1011981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5897A41B-AAAC-4AC8-9C3A-B7022D7D7714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5897A41B-AAAC-4AC8-9C3A-B7022D7D7714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5897A41B-AAAC-4AC8-9C3A-B7022D7D7714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5897A41B-AAAC-4AC8-9C3A-B7022D7D7714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEE3C6A-6F1D-4D85-8669-86F7F08D651D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEE3C6A-6F1D-4D85-8669-86F7F08D651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEE3C6A-6F1D-4D85-8669-86F7F08D651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEE3C6A-6F1D-4D85-8669-86F7F08D651D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC6A48D-8346-4333-BEBF-49DEF1011981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC6A48D-8346-4333-BEBF-49DEF1011981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC6A48D-8346-4333-BEBF-49DEF1011981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC6A48D-8346-4333-BEBF-49DEF1011981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
